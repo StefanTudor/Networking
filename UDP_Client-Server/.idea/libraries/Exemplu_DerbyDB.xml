@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Exemplu_DerbyDB">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Exemplu_DerbyDB" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Exemplu_DerbyDB/src" />
+    </SOURCES>
+  </library>
+</component>
